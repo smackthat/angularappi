@@ -1,0 +1,23 @@
+﻿.ps-title-bar {
+    background-color: wheat;
+    padding: 0 20px;
+
+}
+
+.ps-title-area {
+    display: inline-block;
+
+}
+
+.ps-logo-title {
+    color: crimson;
+    font-size: 22px;
+    margin-top: 6px;
+
+}
+
+.ps-logo-subtitle {
+    font-size: 13px;
+    margin-top: -13px;
+}
+
